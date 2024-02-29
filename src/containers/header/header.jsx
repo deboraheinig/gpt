@@ -4,7 +4,7 @@ import './header.css';
 function header() {
   return (
     <div>
-      
+      Header
     </div>
   )
 }

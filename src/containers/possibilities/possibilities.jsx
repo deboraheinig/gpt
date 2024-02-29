@@ -4,7 +4,7 @@ import './possibilities.css';
 function possibilities() {
   return (
     <div>
-      
+      Possibilities
     </div>
   )
 }

@@ -4,7 +4,7 @@ import './whatGPT.css';
 function whatGPT() {
   return (
     <div>
-      
+      WhatGPT
     </div>
   )
 }
